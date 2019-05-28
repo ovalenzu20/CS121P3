@@ -1,26 +1,21 @@
-import logging
-import re
-from urllib.parse import urlparse, urljoin, parse_qs
-from corpus import Corpus
-import lxml
-import urllib.request
-import http.client
-import os
-import urllib.request
-from collections import defaultdict
-
-from bs4 import BeautifulSoup
-
-
-logger = logging.getLogger(__name__)
-
-
-class Crawler:
+import logging
+import r
+from urllib.parse import urlparse, urljoin, parse_q
+from corpus import Corpu
+import lxm
+import urllib.reques
+import http.client
+import o
+import urllib.request
+from collections import defaultdict
+from bs4 import BeautifulSoup
+logger = logging.getLogger(__name__)
+
+class Crawler:
+    """
+    This class is responsible for scraping urls from the next available link in frontier and adding the scraped links to
+    the frontier
     """
-    This class is responsible for scraping urls from the next available link in frontier and adding the scraped links to
-    the frontier
-    """
-
     def __init__(self, frontier):
         self.frontier = frontier
         self.corpus = Corpus()
