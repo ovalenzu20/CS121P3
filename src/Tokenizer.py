@@ -9,21 +9,23 @@ import nltk
 from nltk.tokenize import RegexpTokenizer
 from _collections import defaultdict
 import os
+from _contextvars import Token
+from lxml.html.diff import token
 
 class Tokenizer:
     
     def generateFilePath(self, folderNum, fileNum):
-        cur_path = os.path.dirname(__file__)
-        new_path = os.path.relpath(f'..\\WEBPAGES_RAW\\{folderNum}\\{fileNum}', cur_path)
-        return new_path
+        return f"../WEBPAGES_RAW/{folderNum}/{fileNum}"
+    
+        
     
     def readFile(self, fileName):
         try:
             oFile = open(fileName, 'r')
             text = oFile.read()
             return text.encode('utf-8')
-        except:
-            return None
+        
+        
         finally:
             oFile.close()
             
@@ -41,13 +43,6 @@ class Tokenizer:
             tokenDict[token] += 1
             
         return tokenDict
-    
-    
-    def generateTFScore(self, tokenDict, tokenCount):
-        for token in tokenDict.items():
-            tokenDict[token[0]] = token[1] / tokenCount
-            
-        return tokenDict
 
     def generateTokenDict(self, folderNum, fileNum):
         filePath = self.generateFilePath(folderNum, fileNum)
@@ -55,12 +50,12 @@ class Tokenizer:
         if rawFile != None:
             tokens = self.tokenizeFile(rawFile)
             tokenFreq = self.populateTokenDictFrequencies(tokens)
-            return self.generateTFScore(tokenFreq, len(tokens))
-        return "File Not Readable"
+            return tokenFreq
         
-            
-    
-    
+        
+        
+# t = Tokenizer()
+# print(t.generateTokenDict(0, 4))
     
     
         
