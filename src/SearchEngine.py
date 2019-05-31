@@ -46,7 +46,7 @@ class SearchEngine:
     def displayTopKSearchResults(self, documentScores, urls, K):
         decreasingOrder = sorted(documentScores, key = lambda val: documentScores[val], reverse = True)[:K]
         ranking = 1
-        print(f'Displaying top {K} results for the query "{self.query}":')
+        print(f'Displaying top {len(decreasingOrder)} results for the query "{self.query}":')
         for filePath in decreasingOrder:
             refinedPath = self.refineFilePath(filePath)
             print(f"\t{ranking}. {urls[refinedPath]}")
@@ -61,6 +61,7 @@ class SearchEngine:
         
         finally:
             oJSON.close()
+            
             
     def refineFilePath(self, path):
         splitPath = path.split('/')
