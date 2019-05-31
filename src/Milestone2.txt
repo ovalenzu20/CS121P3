@@ -1,0 +1,105 @@
+Total results found: 5999 
+Displaying top 20 results for the query "Informatics":
+	1. www.ics.uci.edu/faculty
+	2. www.ics.uci.edu/faculty/index.php
+	3. www.ics.uci.edu/faculty/index.php?department=Informatics
+	4. www.ics.uci.edu/~kay/courses/previous.html
+	5. www.ics.uci.edu/community/news/notes/notes_2008.php
+	6. www.ics.uci.edu/ugrad/degrees/degree_in4matx.php
+	7. www.ics.uci.edu/~andre/teaching.html
+	8. www.ics.uci.edu/community/news/notes/notes_2014.php
+	9. www.ics.uci.edu/about/annualreport/2006-07/events.php
+	10. www.ics.uci.edu/community/news/spotlight/spotlight_purpura.php
+	11. www.ics.uci.edu/ugrad/qa
+	12. www.ics.uci.edu/community/news/notes/notes_2010.php
+	13. www.ics.uci.edu/prospective/en/degrees/informatics
+	14. www.ics.uci.edu/community/news/notes
+	15. www.ics.uci.edu/~gbowker/converge.html
+	16. www.ics.uci.edu/community/news/notes/notes_2009.php
+	17. informatics.ics.uci.edu
+	18. www.ics.uci.edu/~kay/courses/131/su12.html
+	19. www.ics.uci.edu/~kay/courses/131/su13.html
+	20. www.ics.uci.edu/~kay/courses/131/su14.html
+
+Total results found: 10 
+Displaying top 10 results for the query "Mondego":
+	1. mondego.ics.uci.edu
+	2. www.ics.uci.edu/~lopes
+	3. www.ics.uci.edu/community/news/notes/notes_2013.php
+	4. www.ics.uci.edu/community/news/notes/notes_2014.php
+	5. www.ics.uci.edu/~lopes/datasets
+	6. www.ics.uci.edu/~aftabh
+	7. sourcerer.ics.uci.edu
+	8. www.ics.uci.edu/~lopes/datasets/sourcerer-maven-aug12.html
+	9. www.ics.uci.edu/~lopes/datasets/Koders-log-2007.html
+	10. www.ics.uci.edu/~lopes/datasets/SDS_source-repo-18k.html
+
+Total results found: 11974 
+Displaying top 20 results for the query "Irvine":
+	1. www.ics.uci.edu/~eppstein/bibs/eppstein.html
+	2. www.ics.uci.edu/~eppstein/bibs/eppstein.bib
+	3. www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470/browse/fanned_pages/login/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages?ref=page_about_category
+	4. www.ics.uci.edu/facebook/pages/create/dialog/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909?type=3
+	5. www.ics.uci.edu/facebook/login/browse/fanned_pages/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages?ref=page_about_category
+	6. www.ics.uci.edu/facebook/pages/create/dialog/UCIBrenICS/videos/10154385262331909/search/112204368792315/places-in/199405806739848/places/intersect/events/711137452397667?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+	7. www.ics.uci.edu/facebook/browse/likes/login/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154402706541909?type=3
+	8. www.ics.uci.edu/facebook/login/browse/fanned_pages/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909?type=3
+	9. www.ics.uci.edu/facebook/events/340846149648374?acontext=%7B%22ref%22%3A%2298%22%2C%22action_history%22%3A%22null%22%7D
+	10. www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470/browse/fanned_pages/UCIBrenICS/videos/10154385262331909
+	11. www.ics.uci.edu/facebook/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/events/246966085750971/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909/browse/fanned_pages?id=106291486908&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal
+	12. www.ics.uci.edu/facebook/login/browse/fanned_pages/events/252272701892321?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+	13. www.ics.uci.edu/facebook/login/browse/fanned_pages/events/252272701892321/search/str/%25E9%259D%259E%25E8%2590%25A5%25E5%2588%25A9%25E7%25BB%2584%25E7%25BB%2587/keywords_pages/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154408253796909?type=3
+	14. www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470?type=3
+	15. www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/264324267322189?type=3
+	16. www.ics.uci.edu/facebook/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154402706541909?type=3
+	17. www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470/browse/fanned_pages/UCIBrenICS/about?__xt__=33.%7B%22logging_data%22%3A%7B%22page_id%22%3A%22106291486908%22%2C%22event_type%22%3A%22clicked_view_page_about%22%2C%22impression_info%22%3A%22%22%2C%22surface%22%3A%22www_pages_highlights%22%2C%22interacted_story_type%22%3A%22291992504486569%22%2C%22session_id%22%3A%223baeaff90e3d466c803e51114282bdbc%22%7D%7D
+	18. www.ics.uci.edu/facebook/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages?ref=page_about_category
+	19. www.ics.uci.edu/facebook/browse/likes/UCIBrenICS/photos/pb.106291486908.-2207520000.1487108481./10154420875021909/search/str/%25E9%259D%259E%25E8%2590%25A5%25E5%2588%25A9%25E7%25BB%2584%25E7%25BB%2587/keywords_pages/events/252272701892321?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+	20. www.ics.uci.edu/facebook/browse/likes/UCIBrenICS/photos/pb.106291486908.-2207520000.1487108481./10154420875021909/events/711137452397667?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+
+Total results found: 678 
+Displaying top 20 results for the query "artificial intelligence":
+	1. www.ics.uci.edu/~dechter/publications.html
+	2. www.ics.uci.edu/~dechter/publications
+	3. www.ics.uci.edu/~pazzani/Publications/OldPublications.html
+	4. www.ics.uci.edu/~pazzani/Publications/APubs.html
+	5. www.ics.uci.edu/~kobsa/kobsa-publi.htm
+	6. ibook.ics.uci.edu/references.html
+	7. www.ics.uci.edu/~ihler/pubs.html
+	8. www.ics.uci.edu/~ihler/papers/bib.html
+	9. www.ics.uci.edu/~dechter/research.html
+	10. www.ics.uci.edu/faculty
+	11. www.ics.uci.edu/faculty/index.php
+	12. www.ics.uci.edu/~rickl/courses/cs-171/2016-fq-cs171/CS-171-FQ-2016_20160918.htm
+	13. www.ics.uci.edu/~rickl/courses/cs-171/2016-fq-cs171/CS-171-FQ-2016_20160919.htm
+	14. www.ics.uci.edu/~dechter/past_courses.html
+	15. www.ics.uci.edu/~kibler
+	16. www.ics.uci.edu/~rickl/courses/cs-171/2014-fq-cs171/CS-171-FQ-2014.htm
+	17. www.ics.uci.edu/faculty/index.php?department=Computer Science
+	18. www.ics.uci.edu/~emj/Mjolsness_CV_V67p.htm
+	19. www.ics.uci.edu/~kkask/publications.html
+	20. isg.ics.uci.edu/events.html
+
+Total results found: 14314 
+Displaying top 20 results for the query "computer science":
+	1. fano.ics.uci.edu/cites/Organization
+	2. isg.ics.uci.edu/events.html
+	3. www.ics.uci.edu/~eppstein/bibs/dyngraph.bib
+	4. www.ics.uci.edu/~eppstein/bibs/eppstein.html
+	5. www.ics.uci.edu/~eppstein/bibs/eppstein.bib
+	6. www.ics.uci.edu/faculty
+	7. www.ics.uci.edu/faculty/index.php
+	8. www.ics.uci.edu/faculty/index.php?department=Computer Science
+	9. www.ics.uci.edu/~eppstein/bibs/kpath.bib
+	10. www.ics.uci.edu/community/news/notes/notes_2010.php
+	11. www.ics.uci.edu/community/news/notes/notes_2014.php
+	12. www.ics.uci.edu/community/news/notes/notes_2008.php
+	13. cml.ics.uci.edu/category/aiml
+	14. www.ics.uci.edu/community/news/notes/notes_2009.php
+	15. www.ics.uci.edu/~pattis/quotations.html
+	16. www.ics.uci.edu/~kay/pubs/index.html
+	17. www.ics.uci.edu/~eppstein/bibs/subiso.bib
+	18. cml.ics.uci.edu/category/aiml/page/2
+	19. www.ics.uci.edu/~gopi/Resume.html
+	20. www.ics.uci.edu/~wscacchi
+
