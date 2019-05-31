@@ -16,7 +16,10 @@ class SearchEngine:
             oJSON.close()
             
     
+    
+    
+    
 if __name__ == "__main__":
     s = SearchEngine()
-    jsonFile = s.getJSON("/WEBPAGES_RAW/bookkeeping.json")
-    print(jsonFile)
+    jsonFile = s.getJSON("../WEBPAGES_RAW/bookkeeping.json")
+    print(jsonFile['0/0'])
