@@ -10,6 +10,8 @@ from _collections import defaultdict
 
 class SearchEngine:
     
+    def __init__(self):
+        self.query = None
 
     def run(self):
         II = InvertedIndex()
@@ -17,16 +19,19 @@ class SearchEngine:
         invertedIndex = II.loadPickle(II.pickleName)
         urls = self.getJSON("../WEBPAGES_RAW/bookkeeping.json")
         
-        userInput = input("Please enter a query")
-        print("To end the Search Engine, please enter the letter 'q'.")
+        userInput = input("Please enter a query: ")
+        self.query = userInput
+        print("To end the Search Engine, please enter the letter 'q'. \n")
         
         while userInput != "q":
+            
             tokens = T.tokenizeText(userInput)
             documentScores = self.getRelevantDocScores(tokens, invertedIndex)
             self.displayTopKSearchResults(documentScores, urls, 20)
-            
+            print("To end the Search Engine, please enter the letter 'q'. \n")
+
             userInput = input("Please enter a query: ")
-            print("To end the Search Engine, please enter the letter 'q'.")
+            self.query = userInput
             
     
     def getRelevantDocScores(self, tokens, invertedIndex):
@@ -38,16 +43,14 @@ class SearchEngine:
         return documentScores
                 
     
-    #set counter to exit after K iterations -- while loop
     def displayTopKSearchResults(self, documentScores, urls, K):
-        decreasingOrder = sorted(documentScores, key = lambda K: documentScores[K], reverse = True)
-        if len(decreasingOrder) > K:
-            ranking = 1
-            print(f"Displaying top {K} results:")
-            for filePath in decreasingOrder:
-                refinedPath = self.refineFilePath(filePath)
-                print(f"\t{ranking}. {urls[refinedPath]}")
-                ranking += 1
+        decreasingOrder = sorted(documentScores, key = lambda val: documentScores[val], reverse = True)[:K]
+        ranking = 1
+        print(f'Displaying top {K} results for the query "{self.query}":')
+        for filePath in decreasingOrder:
+            refinedPath = self.refineFilePath(filePath)
+            print(f"\t{ranking}. {urls[refinedPath]}")
+            ranking += 1
         
             
             
@@ -62,6 +65,7 @@ class SearchEngine:
     def refineFilePath(self, path):
         splitPath = path.split('/')
         return splitPath[2] + '/' + splitPath[3]
+ 
  
 if __name__ == "__main__":
     s = SearchEngine()
