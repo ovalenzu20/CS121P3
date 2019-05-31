@@ -25,7 +25,6 @@ class Tokenizer:
             text = oFile.read()
             return text.encode('utf-8')
         
-        
         finally:
             oFile.close()
             
@@ -46,8 +45,8 @@ class Tokenizer:
 
     def generateTokenDict(self, folderNum, fileNum):
         filePath = self.generateFilePath(folderNum, fileNum)
-        rawFile = self.readFile(filePath)
-        if rawFile != None:
+        rawFile = self.readFile(filePath) # all contents of the file
+        if rawFile != "":
             tokens = self.tokenizeFile(rawFile)
             tokenFreq = self.populateTokenDictFrequencies(tokens)
             return tokenFreq
