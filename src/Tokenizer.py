@@ -35,6 +35,9 @@ class Tokenizer:
         tokens = nltk.word_tokenize(soup.get_text().lower())
         return [w.lower() for w in tokens if w.isalnum() and not any(char.isdigit() for char in w)]
     
+    def tokenizeText(self, text):
+        tokens = nltk.word_tokenize(text)
+        return [w.lower() for w in tokens if w.isalnum() and not any(char.isdigit() for char in w)]
     
     def populateTokenDictFrequencies(self, tokens):
         tokenDict = defaultdict(int)
