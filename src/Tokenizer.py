@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 import nltk
 from nltk.tokenize import RegexpTokenizer
 from _collections import defaultdict
-import os
 from _contextvars import Token
 from lxml.html.diff import token
 
@@ -24,7 +23,8 @@ class Tokenizer:
             oFile = open(fileName, 'r')
             text = oFile.read()
             return text.encode('utf-8')
-        
+        except:
+            return None
         
         finally:
             oFile.close()
